@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Myles! 👋
+I am a Full Stack Developer with a knack for crafting web applications that meet business demands. Proven track record in leveraging front-end frameworks and back-end technologies, coupled with a passion for continuous learning and adapting to new technologies.
 
-<!--
-**Myles-J/Myles-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,postgres,nextjs,svelte,tailwind,prisma,redis,docker,git)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+## 📬 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Connect with me on [X](https://x.com/MAaronJ99)
+- [My Portfolio Site](https://mylesjefferson.com)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+```
