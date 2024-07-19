@@ -11,4 +11,3 @@ My name is Myles Jefferson and I am a Full Stack Developer with a knack for craf
 - [My Portfolio Site](https://mylesjefferson.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-```
