@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
----
+
 My name is Myles Jefferson and I am a Full Stack Developer with a knack for crafting web applications that meet business demands. Proven track record in leveraging front-end frameworks and back-end technologies, coupled with a passion for continuous learning and adapting to new technologies.
 
 ## Tech Stack
